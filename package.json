@@ -1,0 +1,24 @@
+{
+  "name": "typescript_project_structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc",
+    "start" : "node ./dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamPatel0/typescript_project_structure.git"
+  },
+  "author": "Shivam Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamPatel0/typescript_project_structure/issues"
+  },
+  "homepage": "https://github.com/ShivamPatel0/typescript_project_structure#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
